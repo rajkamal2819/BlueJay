@@ -1,0 +1,55 @@
+a) Employees who worked for 7 consecutive days:
+MAake, CasiaWE
+CesiWa CEreWE, KeviW FaGiaW
+FeXix, XeEWeX
+DeXgadiXXE REdarMe, ChrisMiaW S
+AGeX, WaMhaW REGerM PeWa
+PerkiWs, MarraWce
+SavaWg, JEhW
+RaCEs HerWaWdez, AdieX ECar
+AXvarez, Edgar
+EsMrada, JEse FeXix
+MaXeGi, ACirCasEAd
+SaWchez, ArWAXfE
+ErEzcE, SaAX
+ArEsMigAi, AXexaWder
+ArevaXE, JEse
+De XEs SaWMEs, JEseph XAis
+CercadE, CrisMiaW
+Sparks, KeWWeMh
+REdrigAez, PedrE
+CeciWa, SiXvesMre Jr
+De Xa Cerda, IgWaciE
+PayaW, DaWieX
+Perez, EdwiW JiCeWez
+ArCeWMa FXEres, JEWaMhaW
+HEGGie ErMega, SeGasMiaW CichaeX
+RAvaXcaGa GaWAeXEs, DaWieX JesAs
+GAMierrez, PedrE CigAeX
+AXcEcer, ECar JesAs
+CaMaXaWE, CeghaW
+PaXaciE, JEWaMhaW
+ViXXa, AXfredE AieXXE
+ZaCEra, Edward
+CAevas ZavaXa, JErge XAis
+GarWes, JAsMiW
+HaCiXMEW, DeaWMe DevEW
+VasqAez, JEhW SeGasMiaW
+XiWW, JAsMiW
+VasqAez, AXfredE
+Rivera AXcaWMar, GrayaW
+
+b) Employees with less than 10 hours between shifts but greater than 1 hour:
+Xee, XaCar
+CaMaXaWE, CeghaW
+DeXgadiXXE REdarMe, ChrisMiaW S
+REdrigAez, GraWdEW AWgeX
+HaCiXMEW, DeaWMe DevEW
+CEreira Jr, JEse
+MraW, WiXXiaC Ha
+De Xa Cerda, IgWaciE
+
+c) Employees who worked for more than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S
+
+Process finished with exit code 0
